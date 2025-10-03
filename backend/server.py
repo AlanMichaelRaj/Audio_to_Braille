@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 app = FastAPI()
 
 # Hugging Face API setup
-HF_API_KEY = "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"
+HF_API_KEY = ""
 HF_MODEL = "openai/whisper-small"
 API_URL = "https://api-inference.huggingface.co/models/openai/whisper-small"
 headers = {"Authorization": f"Bearer {HF_API_KEY}"}
