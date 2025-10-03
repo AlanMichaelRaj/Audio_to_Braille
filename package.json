@@ -12,7 +12,11 @@
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.1.14",
+    "@tensorflow-models/handpose": "^0.1.0",
+    "@tensorflow/tfjs": "^4.22.0",
+    "fingerpose": "^0.1.0",
     "gsap": "^3.13.0",
+    "motion": "^12.23.22",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-responsive": "^10.0.1",
